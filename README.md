@@ -115,11 +115,15 @@ class AkshatRajPathak:
 
 <div align="center">
 
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatrajpathak&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=akshatrajpathak&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatrajpathak&layout=compact&theme=tokyonight)
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akshatrajpathak&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatrajpathak&layout=compact&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=akshatrajpathak&theme=tokyonight" />
 
 </div>
 
